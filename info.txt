@@ -1,0 +1,14 @@
+------
+Link:
+-----
+
+https://codesandbox.io/embed/y3j31r13zz //-->Pilares
+
+https://tympanus.net/codrops/2019/10/29/real-time-multiside-refraction-in-three-steps/ //-->solemnidad
+
+
+---------
+Comandos:
+---------
+
+1) yarn add three react-three-fiber react-spring
